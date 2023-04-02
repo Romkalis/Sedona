@@ -1,2 +1,2 @@
 # Sedona
-# Учебный проект HTMLACADEMY
+Учебный проект HTMLACADEMY
